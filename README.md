@@ -7,6 +7,7 @@ GENERAL INFORMATION
 1. Title of Dataset: Princeton Geniza Project Datasets
 
 2. Author Information
+   
 	A. Principal Investigator Contact Information
 		Name: Marina Rustow
 		Institution: Princeton University
