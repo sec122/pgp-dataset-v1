@@ -44,7 +44,7 @@ SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data: 
 
-	Dataset is released under the Creative Commons Attribution 4.0 license (CC-BY-NC.4.0): 
+	Dataset is released under the Creative Commons Attribution Non-Commercial 4.0 license (CC-BY-NC.4.0): 
 https://creativecommons.org/licenses/by-nc/4.0/deed.en 
 
 2. Links to publications that cite or use the data: 
@@ -64,7 +64,12 @@ https://creativecommons.org/licenses/by-nc/4.0/deed.en
 
 	Princeton Geniza Project, version 4.22.0. Center for Digital Humanities at Princeton, 2025.
 
-	Koeser, Rebecca Sutton, Gissoo Doroudian, Ben Silverman, Nick Budak, Kevin McElwee, and Ryan Heuser. “Princeton-cdh/geniza: V4.22”. Zenodo, May 19, 2025. https://doi.org/10.5281/zenodo.15464178.
+   Exports created by running published code: 
+Koeser, Rebecca Sutton, Gissoo Doroudian, Ben Silverman, Nick Budak, Kevin McElwee, and Ryan Heuser. “Princeton-cdh/geniza: V4.22”. Zenodo, May 19, 2025. https://doi.org/10.5281/zenodo.15464178.
+
+AND/OR 
+
+The code that generates these exports is part of the PGP v4 codebase, available at https://github.com/Princeton-CDH/geniza 
 
 Data organizes and curates content from other sources including:
 	S. D. Goitein unpublished papers
@@ -385,7 +390,7 @@ This repository is used to version and publish data from the [Princeton Geniza P
 
 Files in the data directory should _NOT_ be edited or modified directly.
 
-The code that generates these exports is part of the PGP v4 codebase, available at https://github.com/Princeton-CDH/geniza
+The code that generates these exports is part of the PGP v4 codebase, available at https://github.com/Princeton-CDH/geniza 
 
 ## Access via Flat GitHub
 
