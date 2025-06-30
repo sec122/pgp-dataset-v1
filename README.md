@@ -44,7 +44,7 @@ SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data: 
 
-	Dataset is released under the Creative Commons Attribution Non-Commercial 4.0 license (CC-BY-NC.4.0): 
+	Dataset is released under the Creative Commons Attribution Noncommercial 4.0 license (CC-BY-NC.4.0): 
 https://creativecommons.org/licenses/by-nc/4.0/deed.en 
 
 2. Links to publications that cite or use the data: 
